@@ -1,5 +1,8 @@
 ICML envoriment: 
 Keras 2.2.4 and Tensorflow-gpu 1.8
 
-NIPS envoriment
+NIPS envoriment-the first group of test
 Keras 0.3.1 and Tensorflow-gpu 1.8
+
+I revised the network in the test of CIFAR10.
+
